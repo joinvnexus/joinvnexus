@@ -1,17 +1,17 @@
-# 👋 Hi there! I'm Projoy Naidu  
-### The Visionary Behind VueNexus
+# 👋 Hi, I'm Projoy Naidu  
+### Visionary Frontend Developer & Founder of VueNexus
 
-Welcome to my GitHub profile! Here's a bit about me:
+Welcome to my GitHub profile!
 
 ## 🌟 About Me
-- 🎯 **Frontend Developer & IT Professional** — Passionate about building modern, responsive, and interactive web experiences.
-- 💡 Founder of **VueNexus** — Specializing in **Vue.js**, **WordPress**, and **AI-driven coding solutions**.
+- 🎯 **Frontend Developer & IT Professional** — I create modern, responsive, and interactive web experiences.
+- 💡 Founder of **VueNexus** — Focused on **Vue.js**, **WordPress**, and **AI-powered coding solutions**.
 - 🚀 Open to collaboration on innovative and challenging projects.
 
 ## 🌐 Connect With Me
-- 🌍 Portfolio: [VueNexus Portfolio](https://projoy-vue.github.io/vuenexus-protfolio/)
-- 💌 Email: [vuenexus@gmail.com](mailto:vuenexus@gmail.com)
-- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/vuenexus/)
+- 🌍 **Portfolio**: [VueNexus Portfolio](https://joinvnexus.github.io/vuenexus-portfolio/)
+- 💌 **Email**: [vuenexus@gmail.com](mailto:vuenexus@gmail.com)
+- 💼 **LinkedIn**: [linkedin.com/in/vuenexus](https://www.linkedin.com/in/vuenexus/)
 
 ## 🛠️ My Skills
 - **Languages**: JavaScript, HTML, CSS, SCSS
@@ -27,4 +27,4 @@ Welcome to my GitHub profile! Here's a bit about me:
 
 ---
 
-🎉 Thanks for visiting my profile! Let's build something amazing together!
+🎉 Thanks for stopping by — Let’s build something amazing together!
