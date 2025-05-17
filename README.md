@@ -1,5 +1,5 @@
 # 👋 Hi there! I'm Projoy Naidu  
-### Visionary Behind VueNexus
+### The Visionary Behind VueNexus
 
 Welcome to my GitHub profile! Here's a bit about me:
 
@@ -9,8 +9,8 @@ Welcome to my GitHub profile! Here's a bit about me:
 - 🚀 Open to collaboration on innovative and challenging projects.
 
 ## 🌐 Connect With Me
-- 🌍 Personal Website: [Join VueNexus](https://projoy-vue.github.io/joinVnexus/)
-- 💌 Email: [vuenexus@gmail.com](mailto:projoynaidu407@gmail.com)
+- 🌍 Portfolio: [VueNexus Portfolio](https://projoy-vue.github.io/vuenexus-protfolio/)
+- 💌 Email: [vuenexus@gmail.com](mailto:vuenexus@gmail.com)
 - 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/vuenexus/)
 
 ## 🛠️ My Skills
