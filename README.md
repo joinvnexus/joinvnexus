@@ -9,7 +9,7 @@ Welcome to my GitHub profile!
 - 🚀 Open to collaboration on innovative and challenging projects.
 
 ## 🌐 Connect With Me
-- 🌍 **Portfolio**: [VueNexus Portfolio](https://joinvnexus.github.io/vuenexus-portfolio/)
+- 🌍 **Portfolio**: [VueNexus Portfolio](vuenexus.netlify.app)
 - 💌 **Email**: [vuenexus@gmail.com](mailto:vuenexus@gmail.com)
 - 💼 **LinkedIn**: [linkedin.com/in/vuenexus](https://www.linkedin.com/in/vuenexus/)
 
