@@ -40,14 +40,7 @@ Welcome to my GitHub profile! I'm passionate about building beautiful, functiona
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-96C93D?style=flat-square&logo=shopify&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-### APIs & Services
-![Gemini API](https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=white)
 
 ---
 
@@ -94,47 +87,18 @@ Welcome to my GitHub profile! I'm passionate about building beautiful, functiona
 - **Description**: Professional website for KPTI organization
 - **Tech Stack**: Next.js, TypeScript
 
-### 🎤 Gemini Live Voice
-- **Repository**: [gemini-live-voice](https://github.com/joinvnexus/gemini-live-voice)
-- **Description**: AI-powered voice interaction application using Gemini API
-- **Tech Stack**: TypeScript, Gemini API
-- **Features**: Real-time voice processing, AI responses
-
-### 🛍️ E-Commerce Website (Vue.js)
-- **Repository**: [e-commerce-webpage](https://github.com/joinvnexus/e-commerce-webpage)
-- **Description**: Modern, responsive online store
-- **Tech Stack**: Vue.js, Tailwind CSS, JavaScript
-- **Features**: Product catalog, shopping cart, checkout experience
-
-### 📚 Course Learning Platform
-- **Repository**: [Coursewebsite](https://github.com/joinvnexus/Coursewebsite)
-- **Description**: Interactive educational platform with smooth animations
-- **Tech Stack**: Vue.js, GSAP, Tailwind CSS
-- **Features**: Smooth animations, responsive design, course management
-
-### 📘 Next.js Boilerplate
-- **Repository**: [nextjs-boilerplate](https://github.com/joinvnexus/nextjs-boilerplate)
-- **Description**: Production-ready Next.js starter template
-- **Tech Stack**: Next.js, TypeScript
-- **Features**: Best practices, scalable architecture, ready to use
-
-### 🎯 Nuxt 3 Application
-- **Repository**: [my-nuxt3-app](https://github.com/joinvnexus/my-nuxt3-app)
-- **Description**: Modern Nuxt 3 application
-- **Tech Stack**: Nuxt 3, Vue 3, TypeScript
-
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vuenexus/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vuenexus@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=flat-square&logo=firefox&logoColor=white)](https://vuenexus.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/projoynaidu/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:projoy.naidu.dev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=flat-square&logo=firefox&logoColor=white)](https://projoynaidudev-jet.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/joinvnexus)
 
-**Email**: [vuenexus@gmail.com](mailto:vuenexus@gmail.com)  
-**Portfolio**: [vuenexus.netlify.app](https://vuenexus.netlify.app)  
-**LinkedIn**: [linkedin.com/in/vuenexus](https://www.linkedin.com/in/vuenexus/)
+**Email**: [projoy.naidu.dev@gmail.com](mailto:projoy.naidu.dev@gmail.com)  
+**Portfolio**: [projoynaidudev-jet.vercel.app](https://projoynaidudev-jet.vercel.app)  
+**LinkedIn**: [linkedin.com/in/projoynaidu](https://www.linkedin.com/in/projoynaidu/)
 
 ---
 
@@ -155,7 +119,6 @@ I'm always interested in working on:
 - ✅ E-commerce platforms & solutions
 - ✅ TypeScript projects
 - ✅ MongoDB & database design
-- ✅ WordPress & WooCommerce customizations
 - ✅ UI/UX design implementations
 - ✅ AI-powered web solutions
 - ✅ Innovative web solutions
