@@ -50,44 +50,7 @@ Welcome to my GitHub profile! I'm passionate about building beautiful, functiona
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joinvnexus&layout=compact&theme=radical)](https://github.com/joinvnexus)
 
----
 
-## ✨ Featured Projects
-
-### 🛍️ Full-Stack E-Commerce Platform
-- **Repository**: [fullstack-ecommerce](https://github.com/joinvnexus/fullstack-ecommerce)
-- **Description**: A modern, production-ready e-commerce platform with professional features
-- **Tech Stack**: Next.js 14, TypeScript, Express.js, MongoDB Atlas
-- **Features**: 
-  - Cart management system
-  - User authentication
-  - Product catalogs
-  - Order processing
-  - Payment integration
-
-### 🏪 ShopKoro - E-Commerce Landing Page
-- **Repository**: [shopkoro](https://github.com/joinvnexus/shopkoro)
-- **Description**: Full-stack e-commerce landing page tailored for the Bangladeshi market
-- **Tech Stack**: Next.js 14, TypeScript, Node.js, MongoDB Atlas
-- **Features**: Modern design, SEO optimized, responsive, market-specific features
-
-### 📊 SubTrackPro
-- **Repository**: [SubTrackPro](https://github.com/joinvnexus/SubTrackPro)
-- **Description**: Subscription tracking and management platform
-- **Tech Stack**: Next.js, TypeScript
-- **Features**: Track subscriptions, analytics, notifications
-
-### 🎨 LexiWeave
-- **Repository**: [LexiWeave](https://github.com/joinvnexus/LexiWeave)
-- **Description**: Content creation and management platform
-- **Tech Stack**: Next.js, TypeScript
-
-### 🌐 KPTI Website
-- **Repository**: [kpti-website](https://github.com/joinvnexus/kpti-website)
-- **Description**: Professional website for KPTI organization
-- **Tech Stack**: Next.js, TypeScript
-
----
 
 ## 🌐 Connect With Me
 
